@@ -56,18 +56,18 @@ Para clonar un repositorio remoto a nuestro espacio local, inicialmente, tendrem
 
 El control de versiones nos permite llevar un control y registro de todos aquellos cambios o **commits** que vamos realizando durante el desarrollo de nuestras aplicaciones, en la vista principal de SourceTree (cuando tenemos abierto un repositorio) unas de las pestañas que nos aparecen son: **File status** (1) e **History** (2)
 
-![img 31](/home/hespinoza/Documentos/CS50x.ni/Tutorial Soruce Tree/img/31.png)
+![img 31](img/31.png)
 
 * **File status** : nos permite visualizar los archivos que hemos **agregado** (1) y los que están **sin agregar** (2) a nuestro repositorio. Cada vez que creemos o modifiquemos un archivo de nuestra aplicación tendremos que gregarlos ya sea **todos de una sola vez** (3) o **archivo por archivo** (4), cuando ya hayamos agregados los archivos a nuestro repositorio, procedemos a crear un commit. No sin antes haber **ingresado un mensaje** (5) describiendo los cambios o cosas que se hicieron (puede ser una descripción de los archivos nuevos o lo archivos que fueron modificados, alguna funcionabilidad añadida a la aplicación, ect) para luego **confirmar** (6) dichos cambios.
 
-![img 33](/home/hespinoza/Documentos/CS50x.ni/Tutorial Soruce Tree/img/33.png)
+![img 33](img/33.png)
 
 Sin embargo, el confirmar un cambio o commit no es suficiente para sincronizar nuestro repositorio local con nuestro repositorio remoto en github, para hacer eso necesitamos subir los cambios o **push**. Para ello, presionamos el botón **push** (7) lo que nos mostrará una **ventana nueva** (8) donde tendremos que presionar **push** (9) para realizar el proceso o cancelar para abortar el mismo.
 
-![img 35](/home/hespinoza/Documentos/CS50x.ni/Tutorial Soruce Tree/img/35.png)
+![img 35](img/35.png)
 
 * **History** : nos permite visualizar la lista de todos los cambios o commits realizados a lo largo del desarrollo de nuestra aplicación.
 
-![img 37](/home/hespinoza/Documentos/CS50x.ni/Tutorial Soruce Tree/img/37.png)
+![img 37](img/37.png)
 
 ## This is CS50x.ni
